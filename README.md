@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning web security and penetration testing.
 - 😄 I'm natively speak Indonesian and little bit English.
 - 🧑‍🤝‍🧑 Like to make a new friends!
-- 📫 You can reach me at on telegram [@lordrukie](https://t.me/lordrukie) or email [lordrukie@pm.me](lordrukie@pm.me)
+- 📫 You can reach me at on telegram [@lordrukie](https://t.me/lordrukie) or email [lordrukie@pm.me]
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordrukie&theme=graywhite">
